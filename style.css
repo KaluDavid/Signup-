@@ -1,0 +1,93 @@
+html,
+body {
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    color: white;
+}
+
+
+main {
+    display: flex;
+    margin-left: 20%;
+    width: 100%;
+    height: 100%;
+
+}
+
+.div {
+
+    background: rgba(0, 0, 0, 0.6);
+text-align: center;
+margin-top: 36%;
+display: flex;
+}
+
+.div1 {
+    background-image: url('https://media.istockphoto.com/photos/far-picture-id642076170?k=20&m=642076170&s=170667a&w=0&h=IlCgKF4VKvewSS39sAOXDSfIEjcdaZDzbeeyD28Fj0s=');
+height: 99%;
+}
+
+#div {
+    width: 40%;
+}
+
+.div2 {
+    background-color: #E5E7EB;
+    color: black;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.p {
+    opacity: 0.9;
+    margin-top: 100px;
+    
+}
+
+
+.div3 {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    
+
+}
+
+.div4 {
+    background-color: #E5E7EB;
+    color: black;
+    padding: 20px;
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+height: 120px;
+}
+a{
+    text-decoration: none;
+    color: #596D48;
+}
+
+img{
+    width: 20%;
+    
+}
+    
+
+label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    opacity: 0.8;
+}
+
+button{
+    background-color: #596D48;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    width: 150px;
+    color: white;
+    cursor: pointer;
+}
+
